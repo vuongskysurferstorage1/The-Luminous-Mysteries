@@ -34,8 +34,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.8577748219473857,
-          "pitch": 0.06846836247838262,
+          "yaw": 0.8549153822366922,
+          "pitch": 0.11061234348508364,
           "rotation": 0,
           "target": "1-the-wedding-feast-at-canna"
         }
