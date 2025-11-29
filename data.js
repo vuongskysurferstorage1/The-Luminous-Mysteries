@@ -256,8 +256,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -0.7707023928936714,
-          "pitch": -0.42812278966071915,
+          "yaw": -0.781439655926162,
+          "pitch": -0.49173326528207184,
           "title": "The Last Supper",
           "text": "While they were eating, Jesus took bread, and when he had given thanks, he broke it and gave it to his disciples, saying, “Take and eat; this is my body.” Then he took a cup, and when he had given thanks, he gave it to them, saying, “Drink from it, all of you. This is my blood of the covenant, which is poured out for many for the forgiveness of sins. (Matthew 26:26-28)"
         }
