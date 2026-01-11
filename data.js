@@ -42,8 +42,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 0.6121699831532954,
-          "pitch": -0.2015709932610541,
+          "yaw": 0.6518405878416278,
+          "pitch": -0.20176877924714276,
           "title": "The Baptism of Jesus",
           "text": "Then Jesus came from Galilee to the Jordan to be baptized by John. But John tried to deter him, saying, “I need to be baptized by you, and do you come to me?”<div><br></div><div>Jesus replied, “Let it be so now; it is proper for us to do this to fulfill all righteousness.” Then John consented.</div><div><br></div><div>As soon as Jesus was baptized, he went up out of the water. At that moment heaven was opened, and he saw the Spirit of God descending like a dove and alighting on him. And a voice from heaven said, “This is my Son, whom I love; with him I am well pleased.”&nbsp;</div><div>(Matthew 3:13–17)</div>"
         }
@@ -97,8 +97,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -0.2714829871675377,
-          "pitch": -0.26458510748860675,
+          "yaw": -0.22558513888948717,
+          "pitch": -0.27354906311233407,
           "title": "Jesus Changes Water Into Wine",
           "text": "On the third day a wedding took place at Cana in Galilee. Jesus’ mother was there, and Jesus and his disciples had also been invited to the wedding. When the wine was gone, Jesus’ mother said to him, “They have no more wine.”<div><br></div><div>“Woman, why do you involve me?” Jesus replied. “My hour has not yet come.”</div><div><br></div><div>His mother said to the servants, “Do whatever he tells you.”</div><div><br></div><div>Nearby stood six stone water jars, the kind used by the Jews for ceremonial washing, each holding from twenty to thirty gallons.</div><div><br></div><div>Jesus said to the servants, “Fill the jars with water”; so they filled them to the brim.</div><div><br></div><div>Then he told them, “Now draw some out and take it to the master of the banquet.”<br></div><div><br></div><div>They did so, and the master of the banquet tasted the water that had been turned into wine. He did not realize where it had come from, though the servants who had drawn the water knew. Then he called the bridegroom aside and said, “Everyone brings out the choice wine first and then the cheaper wine after the guests have had too much to drink; but you have saved the best till now.”</div><div><br></div><div>What Jesus did here in Cana of Galilee was the first of the signs through which he revealed his glory; and his disciples believed in him.&nbsp;</div><div>(John 2:1-11)</div>"
         }
@@ -152,8 +152,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -0.02827787623966671,
-          "pitch": -0.40272657443732207,
+          "yaw": 0.01612475073815567,
+          "pitch": -0.44704292020272796,
           "title": "Jesus Announces the Good News",
           "text": "After John was put in prison, Jesus went into Galilee, proclaiming the good news of God. “The time has come,\" he said. “The kingdom of God has come near. Repent and believe the good news!”&nbsp;<div>(Mark 1:14-15)</div>"
         }
@@ -256,8 +256,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 0.05781637618038005,
-          "pitch": -0.4788133969099242,
+          "yaw": 0.06880913533646371,
+          "pitch": -0.48241020629297715,
           "title": "The Last Supper",
           "text": "While they were eating, Jesus took bread, and when he had given thanks, he broke it and gave it to his disciples, saying, “Take and eat; this is my body.”<div><br></div><div>Then he took a cup, and when he had given thanks, he gave it to them, saying, “Drink from it, all of you. This is my blood of the covenant, which is poured out for many for the forgiveness of sins. (Matthew 26:26-28)</div>"
         }
