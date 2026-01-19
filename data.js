@@ -42,8 +42,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 0.6235304051620183,
-          "pitch": -0.1752932670106766,
+          "yaw": 0.6319923911907424,
+          "pitch": -0.17290606185455815,
           "title": "The Baptism of Jesus",
           "text": "Then Jesus came from Galilee to the Jordan to be baptized by John. But John tried to deter him, saying, “I need to be baptized by you, and do you come to me?”<div><br></div><div>Jesus replied, “Let it be so now; it is proper for us to do this to fulfill all righteousness.” Then John consented.</div><div><br></div><div>As soon as Jesus was baptized, he went up out of the water. At that moment heaven was opened, and he saw the Spirit of God descending like a dove and alighting on him. And a voice from heaven said, “This is my Son, whom I love; with him I am well pleased.”</div><div>(Matthew 3:13–17)</div>"
         }
@@ -138,22 +138,22 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.06907382329597667,
-          "pitch": -0.17035719594284515,
+          "yaw": 0.05358848048561171,
+          "pitch": -0.17051613309329028,
           "rotation": 0,
           "target": "3-4-the-transfiguration"
         },
         {
-          "yaw": -1.6965898368071493,
-          "pitch": 0.10133681185705257,
+          "yaw": -1.7029965550555701,
+          "pitch": 0.1012106739874703,
           "rotation": 0,
           "target": "1-2-the-wedding-feast-at-cana"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": 0.01797871270576934,
-          "pitch": -0.47385906527658683,
+          "yaw": 0.004657148241202336,
+          "pitch": -0.4721606572718109,
           "title": "Jesus Announces the Good News",
           "text": "After John was put in prison, Jesus went into Galilee, proclaiming the good news of God. “The time has come,\" he said. “The kingdom of God has come near. Repent and believe the good news!”&nbsp;<div>(Mark 1:14-15)</div>"
         }
@@ -193,8 +193,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 1.8026058962436817,
-          "pitch": 0.38103172381361006,
+          "yaw": 1.7953274170598537,
+          "pitch": 0.37459110494686243,
           "rotation": 0,
           "target": "4-5-the-institution-of-the-eucharist"
         },
