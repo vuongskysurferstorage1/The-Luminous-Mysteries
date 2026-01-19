@@ -83,8 +83,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 1.3280582621185744,
-          "pitch": 0.16297518325035298,
+          "yaw": 1.330226813787215,
+          "pitch": 0.12688314617063945,
           "rotation": 0,
           "target": "0-1-the-baptism-of-jesus"
         },
@@ -97,8 +97,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -0.2541592025313655,
-          "pitch": -0.2573717802633553,
+          "yaw": -0.2454546111397562,
+          "pitch": -0.2799424539386237,
           "title": "Jesus Changes Water Into Wine",
           "text": "On the third day a wedding took place at Cana in Galilee. Jesus’ mother was there, and Jesus and his disciples had also been invited to the wedding. When the wine was gone, Jesus’ mother said to him, “They have no more wine.”<div><br></div><div>“Woman, why do you involve me?” Jesus replied. “My hour has not yet come.”</div><div><br></div><div>His mother said to the servants, “Do whatever he tells you.”</div><div><br></div><div>Nearby stood six stone water jars, the kind used by the Jews for ceremonial washing, each holding from twenty to thirty gallons.</div><div><br></div><div>Jesus said to the servants, “Fill the jars with water”; so they filled them to the brim.</div><div><br></div><div>Then he told them, “Now draw some out and take it to the master of the banquet.”</div><div><br></div><div>They did so, and the master of the banquet tasted the water that had been turned into wine. He did not realize where it had come from, though the servants who had drawn the water knew. Then he called the bridegroom aside and said, “Everyone brings out the choice wine first and then the cheaper wine after the guests have had too much to drink; but you have saved the best till now.”</div><div><br></div><div>What Jesus did here in Cana of Galilee was the first of the signs through which he revealed his glory; and his disciples believed in him.&nbsp;</div><div>(John 2:1-11)</div>"
         }
@@ -138,8 +138,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.004441126853475197,
-          "pitch": -0.16934518750248273,
+          "yaw": 0.04107586985769096,
+          "pitch": -0.17026066525598438,
           "rotation": 0,
           "target": "3-4-the-transfiguration"
         },
@@ -152,8 +152,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -0.04216599104032959,
-          "pitch": -0.48755070546869916,
+          "yaw": 0.00011336963761188201,
+          "pitch": -0.49032223111689355,
           "title": "Jesus Announces the Good News",
           "text": "After John was put in prison, Jesus went into Galilee, proclaiming the good news of God. “The time has come,\" he said. “The kingdom of God has come near. Repent and believe the good news!”&nbsp;<div>(Mark 1:14-15)</div>"
         }
@@ -193,8 +193,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 1.8561800293257953,
-          "pitch": 0.40037856098894586,
+          "yaw": 1.83046350557155,
+          "pitch": 0.39583465942190443,
           "rotation": 0,
           "target": "4-5-the-institution-of-the-eucharist"
         },
@@ -207,8 +207,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 1.710327337439276,
-          "pitch": -0.13220437929718365,
+          "yaw": 1.7511749573960538,
+          "pitch": -0.1317884466162731,
           "title": "The Transfiguration",
           "text": "After six days Jesus took with him Peter, James and John the brother of James, and led them up a high mountain by themselves. There he was transfigured before them. His face shone like the sun, and his clothes became as white as the light. Just then there appeared before them Moses and Elijah, talking with Jesus.<div><br></div><div>Peter said to Jesus, “Lord, it is good for us to be here. If you wish, I will put up three shelters—one for you, one for Moses and one for Elijah.”</div><div><br></div><div>While he was still speaking, a bright cloud covered them, and a voice from the cloud said, “This is my Son, whom I love; with him I am well pleased. Listen to him!”</div><div><br></div><div>When the disciples heard this, they fell facedown to the ground, terrified. But Jesus came and touched them. “Get up,” he said. “Don’t be afraid.” When they looked up, they saw no one except Jesus.</div><div>(Matthew 17:1-8)</div>"
         }
@@ -256,8 +256,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 0.025240910677851502,
-          "pitch": -0.4853425246244143,
+          "yaw": 0.06509409668312216,
+          "pitch": -0.4996520133085802,
           "title": "The Last Supper",
           "text": "While they were eating, Jesus took bread, and when he had given thanks, he broke it and gave it to his disciples, saying, “Take and eat; this is my body.”<div><br></div><div>Then he took a cup, and when he had given thanks, he gave it to them, saying, “Drink from it, all of you. This is my blood of the covenant, which is poured out for many for the forgiveness of sins.</div><div>(Matthew 26:26-28)</div>"
         }
