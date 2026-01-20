@@ -83,22 +83,22 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 1.330226813787215,
-          "pitch": 0.12688314617063945,
-          "rotation": 0,
-          "target": "0-1-the-baptism-of-jesus"
-        },
-        {
-          "yaw": -0.2081225951556096,
-          "pitch": -0.008420141332466713,
+          "yaw": -0.20790684707299256,
+          "pitch": -0.008690813679965714,
           "rotation": 0,
           "target": "2-3-the-proclamation-of-the-kingdom"
+        },
+        {
+          "yaw": 1.3359429840287653,
+          "pitch": 0.13937177954095148,
+          "rotation": 0,
+          "target": "0-1-the-baptism-of-jesus"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": -0.2454546111397562,
-          "pitch": -0.2799424539386237,
+          "yaw": -0.2458495986226481,
+          "pitch": -0.27898551131279525,
           "title": "Jesus Changes Water Into Wine",
           "text": "On the third day a wedding took place at Cana in Galilee. Jesus’ mother was there, and Jesus and his disciples had also been invited to the wedding. When the wine was gone, Jesus’ mother said to him, “They have no more wine.”<div><br></div><div>“Woman, why do you involve me?” Jesus replied. “My hour has not yet come.”</div><div><br></div><div>His mother said to the servants, “Do whatever he tells you.”</div><div><br></div><div>Nearby stood six stone water jars, the kind used by the Jews for ceremonial washing, each holding from twenty to thirty gallons.</div><div><br></div><div>Jesus said to the servants, “Fill the jars with water”; so they filled them to the brim.</div><div><br></div><div>Then he told them, “Now draw some out and take it to the master of the banquet.”</div><div><br></div><div>They did so, and the master of the banquet tasted the water that had been turned into wine. He did not realize where it had come from, though the servants who had drawn the water knew. Then he called the bridegroom aside and said, “Everyone brings out the choice wine first and then the cheaper wine after the guests have had too much to drink; but you have saved the best till now.”</div><div><br></div><div>What Jesus did here in Cana of Galilee was the first of the signs through which he revealed his glory; and his disciples believed in him.&nbsp;</div><div>(John 2:1-11)</div>"
         }
